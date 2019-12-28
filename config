@@ -1,0 +1,5 @@
+IMG_NAME=AAWireless
+HOSTNAME=aawireless
+FIRST_USER_NAME=aawireless
+FIRST_USER_PASS=aawireless
+ENABLE_SSH=1
